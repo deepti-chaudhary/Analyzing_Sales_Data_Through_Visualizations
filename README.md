@@ -16,8 +16,8 @@ Using market basket analysis and power BI visualizations to analyze customer pur
 - Distribution of sub-category of products through charts.
 
 # Process
-- Data cleaning and pre-processing through python.
-- Applying apriori algorithm to the pre-processed data to identify frequent itemsets purchased by customers.
+- Data cleaning and pre-processing through python. (Step1-file)
+- Applying apriori algorithm to the pre-processed data to identify frequent itemsets purchased by customers. (Step2-file)
 - Creating visualizations through Power-BI for extracting data insights.
 
 # Dashboards
