@@ -21,5 +21,10 @@ Using market basket analysis and power BI visualizations to analyze customer pur
 - Creating visualizations through Power-BI for extracting data insights.
 
 # Dashboards
-- 
+- ![Screenshot 2025-06-04 135859](https://github.com/user-attachments/assets/39dc9c1d-48dc-467d-9581-a25301e145c9)
+
+- ![Screenshot 2025-06-04 140048](https://github.com/user-attachments/assets/3059e65c-fda4-49d3-89dc-0739b9effde8)
+
+- ![Screenshot 2025-06-04 140155](https://github.com/user-attachments/assets/b2278ee1-4b2c-4465-bc44-a9e31245ae96)
+
 
