@@ -1,5 +1,5 @@
-# Analyzing_Sales_Data
-Using market basket analysis and power BI visualizations to analyze customer purchase behaviour of sales data.
+# Sales_Data_Analysis
+Using Python and power BI visualizations to analyze customer purchase behaviour of sales data through market basket analysis.
 
 # Project Objective
 - To analyze the customer behaviour through frequent itemset mining and extract useful data insights through data visualization.
